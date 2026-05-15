@@ -1,0 +1,8 @@
+/*
+!/frontend/
+/frontend/*
+!/frontend/src/
+/frontend/src/*
+!/frontend/src/components/
+!/frontend/src/styles/
+!.gitignore
